@@ -13,30 +13,27 @@ A Lazy-loading **Details** screen containing three elements
 - Title for displaying the 'title' text of the JSON response
 - Text field (non-editable) for displaying the 'body' text of the JSON response
 
-## Available Scripts
+## Getting Started
 
-In the project directory, you can run:
+1. Clone the frontend repository
 
-### `npm i`
+```
+git clone git@github.com:JaviAPS94/scalio-challenge-frontend.git
+```
+2. In root directory run
 
-### `npm start`
+  ```bash
+$ npm install 
+```
+4. Start Application
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+  ```bash
+$ npm run start 
+```
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Host
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-#### Host
-
-- URL app: 
+- URL app: https://sparkling-even-rainbow.glitch.me/
 - URL local: localhost:3000
 
 ### License
