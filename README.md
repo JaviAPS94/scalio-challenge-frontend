@@ -33,7 +33,7 @@ $ npm run start
 
 ## Host
 
-- URL app: https://sparkling-even-rainbow.glitch.me/
+- URL app: https://moonlit-tulumba-f8263a.netlify.app/
 - URL local: localhost:3000
 
 ### License
